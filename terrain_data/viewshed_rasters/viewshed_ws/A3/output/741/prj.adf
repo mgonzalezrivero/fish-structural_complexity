@@ -1,0 +1,13 @@
+Projection    TRANSVERSE
+Datum         WGS84
+Spheroid      WGS84
+Units         METERS
+Zunits        NO
+Xshift        0.0
+Yshift        0.0
+Parameters    
+1.0 /* scale factor at central meridian
+ -87 50 36.9384 /* longitude of central meridian
+  16 42 50.9832 /* latitude of origin
+0.0 /* false easting (meters)
+0.0 /* false northing (meters)
