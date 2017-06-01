@@ -1,10 +1,21 @@
 # <I>Linking fishes to multiple metrics of coral reef structural complexity using three-dimensional technology</I>
 
-González-Rivero M 1,2*, Harborne A R 2,3,5, Herrera-Reveles A4, Bozec Y M 5,2, Rogers A 5, Friedman A 6,7, Ganase A 1,2,5 and Hoegh-Guldberg O 1,2,51 The Global Change Institute, The University of Queensland, St Lucia. Queensland, Australia 40722 Australian Research Council Centre of Excellence for Coral Reef Studies, The University of Queensland, St Lucia, Queensland, Australia 40723 Department of Biological Sciences, Florida International University, North Miami, Florida 331814 Instituto de Zoología y Ecología Tropical, Universidad Central de Venezuela. Caracas, Distrito Capital, Venezuela 10515 School of Biological Sciences, The University of Queensland, St Lucia. Queensland, Australia 40726 Greybits Engineering, Sydney, New South Wales, Australia 20067 The Australian Centre for Field Robotics, University of Sydney, New South Wales, Australia 2006* correspondence author, e-mail: m.gonzalezrivero@uq.edu.au 
+González-Rivero M <sup>1,2*</sup>, Harborne A R <sup>2,3,5</sup>, Herrera-Reveles A <sup>4</sup>, Bozec Y M <sup>5,2</sup>, Rogers A <sup>5</sup>, Friedman A <sup>6,7</sup>, Ganase A <sup>1,2,5</sup> and Hoegh-Guldberg O <sup>1,2,5</sup>1. The Global Change Institute, The University of Queensland, St Lucia. Queensland, Australia 40722. Australian Research Council Centre of Excellence for Coral Reef Studies, The University of Queensland, St Lucia, Queensland, Australia 40723. Department of Biological Sciences, Florida International University, North Miami, Florida 331814. Instituto de Zoología y Ecología Tropical, Universidad Central de Venezuela. Caracas, Distrito Capital, Venezuela 10515. School of Biological Sciences, The University of Queensland, St Lucia. Queensland, Australia 40726. Greybits Engineering, Sydney, New South Wales, Australia 20067 The Australian Centre for Field Robotics, University of Sydney, New South Wales, Australia 2006*correspondence author, e-mail: m.gonzalezrivero@uq.edu.au 
 ## Summary
 This repository contains supplementary material to the the manuscript submitted to Nature Scientific Reports under the title: " Linking fishes to multiple metrics of structural complexity using three-dimensional technologies". This manuscript is currently under review (from 02 June 2017). 
 
 The supplementary manterial comprise of the original data, methodological protocols and statistical models employed in this study. 
+
+Here is an example of the 3D reconstructions of reef substrate:
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/7a7ece235db24be4b3766da017272d6e/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/7a7ece235db24be4b3766da017272d6e?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">mesophotic_quadrat</a>
+    by <a href="https://sketchfab.com/magr?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Manuel Gonzalez-Rivero</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
 
 ## Structure of the repository
 
